@@ -42,8 +42,12 @@ java语言的设计目标之一是适用于动态变化的环境。java程序需
 
 ··········
 public class Helloworld{
+
   public static void main(String []args)
+  
     system.out.print("Hello World")
+    
     }
+    
  }
 
